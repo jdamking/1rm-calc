@@ -5,6 +5,7 @@ export default function Layout(props) {
     return (
         <><div>
             <header>
+                <h1>cla</h1>
                 Header
             </header>
             {children}
