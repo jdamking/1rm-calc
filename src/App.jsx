@@ -21,7 +21,6 @@ function App() {
 
   return (
     <Layout>
-      <p>This calculator will help you determine about what your one repition max is</p>
       <RepSlider title={"Number of Repetitions"} symbol={'reps'} value={repAmount} setRep={setRepAmount}/>
       <WeightSlider title={"Weight"} symbol={'lbs'} value={weightAmount} setWeight={setWeightAmount}/>
       <CalculateButton evaluate={calculateOneRM}/>
