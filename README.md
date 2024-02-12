@@ -7,6 +7,6 @@ This project is a One Rep Max Calculator built with React and TailwindCSS. Users
 - Calculate the one-repetition maximum (1RM) based on weight lifted and repetitions.
 - Responsive design for desktop and mobile usage.
 
-# To-Do
+## To-Do
 - Deploy to the web.
 - Display percentages of the calculated 1RM for workout planning (50% - 95% in 5% increments)
