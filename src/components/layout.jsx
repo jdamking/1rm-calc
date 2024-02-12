@@ -5,7 +5,7 @@ export default function Layout(props) {
     return (
         <><div>
             <header>
-                <h1>Header</h1>
+                <h1>One Rep Max Calculator</h1>
             </header>
             {children}
             <footer>
